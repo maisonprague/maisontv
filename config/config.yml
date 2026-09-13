@@ -1,0 +1,57 @@
+# Order in these lists is the output order. Remove an item or set enabled: false
+# to exclude it without touching Python code.
+countries:
+  - { code: cz, enabled: true }
+  - { code: ua, enabled: true }
+  - { code: by, enabled: true }
+  - { code: ru, enabled: true }
+  - { code: kz, enabled: true }
+  - { code: ge, enabled: true }
+  - { code: am, enabled: true }
+  - { code: az, enabled: true }
+  - { code: md, enabled: true }
+  - { code: kg, enabled: true }
+  - { code: tj, enabled: true }
+  - { code: tm, enabled: true }
+  - { code: uz, enabled: true }
+  - { code: lv, enabled: true }
+  - { code: lt, enabled: true }
+  - { code: ee, enabled: true }
+  - { code: us, enabled: true }
+  - { code: il, enabled: true }
+  - { code: pl, enabled: true }
+  - { code: de, enabled: true }
+  - { code: sk, enabled: true }
+  - { code: at, enabled: true }
+  - { code: fr, enabled: true }
+  # iptv-org uses `uk` in its country-playlist path; keep GB as the output label.
+  - { code: gb, upstream_code: uk, enabled: true }
+  - { code: it, enabled: true }
+  - { code: es, enabled: true }
+  - { code: ro, enabled: true }
+  - { code: hr, enabled: true }
+  - { code: bg, enabled: true }
+
+categories:
+  - { name: General, enabled: true }
+  - { name: News, enabled: true }
+  - { name: Sports, enabled: true }
+  - { name: Music, enabled: true }
+  - { name: Movies, enabled: true }
+  - { name: Kids, enabled: true }
+  - { name: Entertainment, enabled: true }
+  - { name: Documentary, enabled: true }
+
+upstream:
+  base_url: https://iptv-org.github.io/iptv
+  timeout_seconds: 30
+  retries: 3
+
+# Stream probing is deliberately off: an intermittent response must not remove
+# a channel. The generator only validates URL syntax and HTTP(S) scheme.
+stream_validation:
+  probe_enabled: false
+
+# Refuse to replace existing working files with unexpectedly tiny output.
+safety:
+  minimum_records: 1
