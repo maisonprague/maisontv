@@ -815,7 +815,7 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@HD" tvg-name="START Air HD (1080p)" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="RU | Movies",START Air HD (1080p)
 http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
-#EXTINF:-1 tvg-id="StartTriumf.ru@SD" tvg-name="Start Triumf" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="RU | Sports",Start Triumf
+#EXTINF:-1 tvg-id="StartTriumf.ru@SD" tvg-name="Start Triumf (1080p)" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="RU | Sports",Start Triumf (1080p)
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-name="START World (576p)" tvg-logo="https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png" group-title="RU | Movies",START World (576p)
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
@@ -2823,6 +2823,8 @@ http://89.33.29.115:8080/sportplus/index.m3u8
 http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
 #EXTINF:-1 tvg-id="5Sport.il@SD" tvg-name="5Sport (1080p)" tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="IL | Sports",5Sport (1080p)
 http://str2.iptvhd.ru:8080/5sport/index.m3u8
+#EXTINF:-1 tvg-id="5Stars.il@SD" tvg-name="5Stars (1080p)" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="IL | Sports",5Stars (1080p)
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD" tvg-name="Channel 9 (Israel) (1080p)" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="IL | News",Channel 9 (Israel) (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-name="Disney Channel (Israel) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="IL | Kids",Disney Channel (Israel) (576p)
@@ -2867,6 +2869,10 @@ http://str2.iptvhd.ru:8080/One/index.m3u8
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 #EXTINF:-1 tvg-id="Sport2.il@SD" tvg-name="Sport 2 (Israel) (1080p)" tvg-logo="https://i.imgur.com/Headxmx.png" group-title="IL | Sports",Sport 2 (Israel) (1080p)
 http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
+#EXTINF:-1 tvg-id="Sport3.il@SD" tvg-name="Sport 3 (Israel) (1080p)" tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="IL | Sports",Sport 3 (Israel) (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
+#EXTINF:-1 tvg-id="Sport4.il@SD" tvg-name="Sport 4 (Israel) (1080p)" tvg-logo="https://i.imgur.com/wFXzzYs.png" group-title="IL | Sports",Sport 4 (Israel) (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-name="TeenNick (Israel) (406p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="IL | Kids",TeenNick (Israel) (406p)
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="VacationChannel.il@SD" tvg-name="Vacation Channel" tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" group-title="IL | Entertainment",Vacation Channel
@@ -3011,6 +3017,8 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeRap.de@SD" tvg-name="Deluxe Rap (1080p)" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="DE | Music",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-name="Disney Channel (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="DE | Kids",Disney Channel (Germany)
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-id="DMF.de@SD" tvg-name="DMF (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="DE | Music",DMF (1080p) [Not 24/7]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat (1080p)" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="DE | Documentary",Dokusat (1080p)
@@ -3039,6 +3047,8 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-name="kabel eins" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="DE | Entertainment",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-name="kabel eins Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="DE | Documentary",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
 #EXTINF:-1 tvg-id="Kanal12SprembergTV.de@SD" tvg-name="Kanal12 Spremberg TV (404p) [Not 24/7]" tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" group-title="DE | General",Kanal12 Spremberg TV (404p) [Not 24/7]
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@SD" tvg-name="KiKA (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="DE | Kids",KiKA (1080p) [Not 24/7]
