@@ -1693,6 +1693,8 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@US" tvg-name="Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="US | Movies",Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us@EastHD" tvg-name="Cinemax Action East HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png" group-title="US | Movies",Cinemax Action East HD (1080p)
+https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-name="Cinemax Classics (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png" group-title="US | Movies",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-name="Cinemax Hits (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png" group-title="US | Movies",Cinemax Hits (1080p)
@@ -2305,6 +2307,8 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-name="Nick Jr. (United States) (720p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="US | Kids",Nick Jr. (United States) (720p)
 http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@EastHD" tvg-name="Nick Jr. (United States) East HD (1080p)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="US | Kids",Nick Jr. (United States) East HD (1080p)
+https://sra72yz.s.gy/NICK_JR_HD.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-name="Nick Jr. Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="US | Kids",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon (United States) (720p)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="US | Kids",Nickelodeon (United States) (720p)
@@ -2313,8 +2317,8 @@ http://198.58.104.90:8989/nickelodeon/index.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-name="Nickelodeon Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="US | Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons (United States) (720p)" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="US | Kids",Nicktoons (United States) (720p)
-http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons (United States) (1080p)" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="US | Kids",Nicktoons (United States) (1080p)
+https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-name="Ninja Kidz TV (720p)" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="US | Kids",Ninja Kidz TV (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NOST.us@SD" tvg-name="NOST (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg" group-title="US | Movies",NOST (720p)
@@ -2827,7 +2831,7 @@ http://str2.iptvhd.ru:8080/5sport/index.m3u8
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD" tvg-name="Channel 9 (Israel) (1080p)" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="IL | News",Channel 9 (Israel) (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-name="Disney Channel (Israel) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="IL | Kids",Disney Channel (Israel) (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-name="Disney Channel (Israel) (576p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png" group-title="IL | Kids",Disney Channel (Israel) (576p)
 http://str2.iptvhd.ru:8080/disney/index.m3u8
 #EXTINF:-1 tvg-id="HalaTV.il@SD" tvg-name="Hala TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/028M4Ew.png" group-title="IL | General",Hala TV (1080p) [Not 24/7]
 https://stream.panet.com/edge/halaTV/playlist.m3u8
