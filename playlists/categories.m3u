@@ -379,8 +379,8 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="zenith.fr@HD" tvg-name="zenith (1080p)" tvg-logo="https://znth.tv/images/logo.png" group-title="General",[FR] zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-name="Alb UK TV (1080p)" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",[GB] Alb UK TV (1080p)
-http://5.254.89.106/8794/index.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-name="Alb UK TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",[GB] Alb UK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-name="Anand TV (United Kingdom) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",[GB] Anand TV (United Kingdom) (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-name="ATN Bangla UK (576p)" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",[GB] ATN Bangla UK (576p)
@@ -779,6 +779,8 @@ https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-name="Polsat (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",[PL] Polsat (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-name="Szlagier TV" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="General",[PL] Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaJaslo.pl@SD" tvg-name="Telewizja Jaslo (720p)" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="General",[PL] Telewizja Jaslo (720p)
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl@SD" tvg-name="Telewizja Luban (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General",[PL] Telewizja Luban (720p) [Not 24/7]
@@ -1215,8 +1217,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="Akaku55.us@SD" tvg-name="Akaku 55 (1080p)" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png" group-title="General",[US] Akaku 55 (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1 tvg-id="AlbanianTVAmerica.us@SD" tvg-name="Albanian TV America (1080p)" tvg-logo="https://albtvusa.com/wp-content/uploads/2021/10/logo.final_.png" group-title="General",[US] Albanian TV America (1080p)
-http://5.254.89.106/8711/index.m3u8
 #EXTINF:-1 tvg-id="AMGATV.us@SD" tvg-name="AMGA TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/NTlC6e7.png" group-title="General",[US] AMGA TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="AMP1.us@SD" tvg-name="AMP 1 (720p)" tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="General",[US] AMP 1 (720p)
@@ -1835,8 +1835,8 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-name="LRT Radijas (1080p)" tvg-logo="https://i.imgur.com/gYoaqju.png" group-title="News",[LT] LRT Radijas (1080p)
 https://stream-live.lrt.lt/radijas/master.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-name="PRO TV Chisinau (480p)" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="News",[MD] PRO TV Chisinau (480p)
-https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-name="PRO TV Chisinau (576p)" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="News",[MD] PRO TV Chisinau (576p)
+http://178.76.68.60:7441/15/mpegts
 #EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-name="Realitatea TV (406p)" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",[MD] Realitatea TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-name="TeleMoldova + [Geo-blocked]" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",[MD] TeleMoldova + [Geo-blocked]
@@ -2531,6 +2531,8 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-name="Unbeaten (1080p)" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",[US] Unbeaten (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports",[US] USA Network (720p)
+http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-name="Willow (720p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports",[US] Willow (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-name="Willow Sports (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports",[US] Willow Sports (1080p)
@@ -2683,8 +2685,8 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-name="M6 Music (720p)" tvg-logo="" group-title="Music",[FR] M6 Music (720p)
 http://145.239.5.177/320/index.m3u8
-#EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-name="MCM Pop (576p)" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",[FR] MCM Pop (576p)
-http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-name="MCM Pop (580p)" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",[FR] MCM Pop (580p)
+http://188.115.15.121:8000/play/a014
 #EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-name="Mezzo (1080p)" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Music",[FR] Mezzo (1080p)
 http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr@SD" tvg-name="NRJ Hits" tvg-logo="https://i.imgur.com/2xDVwOh.png" group-title="Music",[FR] NRJ Hits
@@ -2781,6 +2783,8 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-name="m2o TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",[IT] m2o TV (1080p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBrunoTV.it@SD" tvg-name="Radio Bruno TV (720p)" tvg-logo="https://i.imgur.com/WBcwDb7.png" group-title="Music",[IT] Radio Bruno TV (720p)
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioPiterPanTV.it@SD" tvg-name="Radio Piter Pan TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="Music",[IT] Radio Piter Pan TV (720p) [Not 24/7]
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it@SD" tvg-name="Radio Zeta (1080p)" tvg-logo="https://i.imgur.com/K2xLMin.png" group-title="Music",[IT] Radio Zeta (1080p)
@@ -2849,6 +2853,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Music",[RO] EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" tvg-name="H!t Music Channel (Romania)" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="Music",[RO] H!t Music Channel (Romania)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-name="Impact TV (Romania) (1080p)" tvg-logo="https://tvimpact.ro/impact-logo.png" group-title="Music",[RO] Impact TV (Romania) (1080p)
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTV2.ro@HD" tvg-name="Impact TV 2 (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Music",[RO] Impact TV 2 (1080p)
@@ -2867,6 +2873,8 @@ https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Music",[RO] Mooz Ro!
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel" tvg-logo="https://i.imgur.com/nadVCxM.png" group-title="Music",[RO] Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",[RO] Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net (480p)" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Music",[RO] Radio Romania 3Net (480p)
@@ -3377,6 +3385,8 @@ https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" tvg-name="FILMBOX+ Love & Crime Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Movies",[RO] FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema (1080p)" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Movies",[RO] Pro Cinema (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-name="alpha Cinema (1080p)" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="Movies",[RU] alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="Blokbaster.ru@HD" tvg-name="Blokbaster HD (1080p)" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="Movies",[RU] Blokbaster HD (1080p)
@@ -4323,8 +4333,10 @@ https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl@HD" tvg-name="Remonty TV (1080p)" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Entertainment",[PL] Remonty TV (1080p)
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
-#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",[RO] Acasa Gold
-http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 tvg-id="Acasa.ro@SD" tvg-name="Acasa (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="Entertainment",[RO] Acasa (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",[RO] Acasa Gold (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-name="Acasa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="Entertainment",[RO] Acasa HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro@SD" tvg-name="Antena Stars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="Entertainment",[RO] Antena Stars
