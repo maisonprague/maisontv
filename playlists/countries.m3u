@@ -925,6 +925,8 @@ http://stream.mcquack.net/333/index.m3u8
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="VitalDrive.ru@HD" tvg-name="Vital Drive" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="RU | Sports",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-name="VIVA Russia" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="RU | Music",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru@SD" tvg-name="Vostok 24 (1080p)" tvg-logo="https://i.imgur.com/YEXDsMn.png" group-title="RU | General",Vostok 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-id="YaPervyy.ru@HD" tvg-name="YaPervyy (1080p)" tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" group-title="RU | General",YaPervyy (1080p)
@@ -1827,8 +1829,6 @@ http://tvsen7.aynascope.net/espn/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-name="ESPN Deportes HD (720p)" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="US | Sports",ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-name="ESPNU (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="US | Sports",ESPNU (720p)
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-name="ESPNU HD (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="US | Sports",ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-name="Estrella News (1080p)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="US | News",Estrella News (1080p)
@@ -1909,6 +1909,8 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="US | Sports",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2 (United States) (720p)" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="US | Sports",Fox Sports 2 (United States) (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-name="Free Speech TV (720p)" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="US | News",Free Speech TV (720p)
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
 #EXTINF:-1 tvg-id="FreebieTV.us@SD" tvg-name="Freebie TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="US | Entertainment",Freebie TV (720p) [Not 24/7]
@@ -1921,6 +1923,8 @@ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Fuse.us@East" tvg-name="Fuse (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="US | Entertainment",Fuse (1080p)
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" tvg-name="FX (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="US | Entertainment",FX (720p)
+https://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="Galavision.us@EastHD" tvg-name="Galavision East HD (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="US | General",Galavision East HD (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-id="Galavision.us@West" tvg-name="Galavision West (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="US | General",Galavision West (720p)
@@ -2865,10 +2869,6 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RealityChannel.il@SD" tvg-name="Reality Channel" tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" group-title="IL | Entertainment",Reality Channel
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 tvg-id="Sport3.il@SD" tvg-name="Sport 3 (Israel) (1080p)" tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="IL | Sports",Sport 3 (Israel) (1080p)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
-#EXTINF:-1 tvg-id="Sport4.il@SD" tvg-name="Sport 4 (Israel) (1080p)" tvg-logo="https://i.imgur.com/wFXzzYs.png" group-title="IL | Sports",Sport 4 (Israel) (1080p)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-name="TeenNick (Israel) (406p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="IL | Kids",TeenNick (Israel) (406p)
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="VacationChannel.il@SD" tvg-name="Vacation Channel" tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" group-title="IL | Entertainment",Vacation Channel
@@ -3761,8 +3761,8 @@ https://live.azenagroup.com/zenith/index.ll.m3u8
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-name="Aaj Tak (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="GB | News",Aaj Tak (1080p)
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-name="Aathavan TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="GB | Entertainment",Aathavan TV (720p) [Not 24/7]
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-name="Aathavan TV (720p)" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="GB | Entertainment",Aathavan TV (720p)
+https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-name="Afrobeat TV Entertainment (1080p)" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="GB | Music",Afrobeat TV Entertainment (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-name="Alb UK TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="GB | General",Alb UK TV (1080p) [Not 24/7]
