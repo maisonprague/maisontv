@@ -2,51 +2,51 @@
 #EXTINF:-1 tvg-id="BarrandovKrimi.cz@SD" tvg-name="Barrandov Krimi (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" group-title="CZ | General",Barrandov Krimi (1080p)
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-name="BBC Earth Czechia" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="CZ | Documentary",BBC Earth Czechia
-http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-name="Canal+ Action Europe Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="CZ | Movies",Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@CzechRepublic" tvg-name="Cartoon Network CEE Czech Republic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="CZ | Kids",Cartoon Network CEE Czech Republic
-http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Czechia" tvg-name="Cartoonito CEE Czechia" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="CZ | Kids",Cartoonito CEE Czechia
-http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-name="CNN Prima News (1080p)" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="CZ | News",CNN Prima News (1080p)
-http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD" tvg-name="CT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="CZ | General",CT1
-http://88.212.15.17/live/test_ct1_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-name="CT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="CZ | Documentary",CT2
-http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24.cz@SD" tvg-name="CT24 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="CZ | News",CT24 (1080p)
-http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz@SD" tvg-name="CT Decko (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="CZ | Kids",CT Decko (1080p)
-http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8
+http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-name="CT Sport (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="CZ | Sports",CT Sport (720p)
-http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-name="Disney Channel (Czech Republic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="CZ | Kids",Disney Channel (Czech Republic)
-http://88.212.15.17/live/test_disney/playlist.m3u8
+http://88.212.15.50/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-name="Golf Channel" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="CZ | Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="CZ | Movies",HBO 2
-http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-name="HBO 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="CZ | Movies",HBO 3
-http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz@SD" tvg-name="HBO (Czech Republic)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="CZ | Movies",HBO (Czech Republic)
-http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JC1.cz@SD" tvg-name="JC1 (1080p)" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="CZ | General",JC1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="Jihoceskatelevize.cz@SD" tvg-name="Jihoceska televize (1080p)" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="CZ | General",Jihoceska televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-name="Minimax CEE (576p)" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="CZ | Kids",Minimax CEE (576p)
-http://88.212.15.17/live/test_minimax/playlist.m3u8
+http://88.212.15.50/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="CZ | Music",Music Box Classic
-http://88.212.15.17/live/mb_classic/index.m3u8
+http://88.212.15.50/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz@SD" tvg-name="Music Box Dance" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" group-title="CZ | Music",Music Box Dance
-http://88.212.15.17/live/mb_dance/index.m3u8
+http://88.212.15.50/live/mb_dance/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxHits.cz@SD" tvg-name="Music Box Hits" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png" group-title="CZ | Music",Music Box Hits
-http://88.212.15.17/live/mb_hits/index.m3u8
+http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD" tvg-name="Music Box Sexy" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="CZ | Music",Music Box Sexy
-http://88.212.15.17/live/mb_sexy/index.m3u8
+http://88.212.15.50/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-name="Nicktoons (Czech Republic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="CZ | Kids",Nicktoons (Czech Republic)
-http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-name="Ocko (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="CZ | Music",Ocko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoBlack.cz@SD" tvg-name="Ocko Black" tvg-logo="https://i.imgur.com/5rw9tWy.png" group-title="CZ | Music",Ocko Black
@@ -70,9 +70,9 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagerOriginal.cz@SD" tvg-name="Slager Original" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="CZ | Music",Slager Original
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="Spektrum.cz@SD" tvg-name="Spektrum (Czech Republic)" tvg-logo="https://i.imgur.com/F5Uosum.png" group-title="CZ | Documentary",Spektrum (Czech Republic)
-http://88.212.15.17/live/test_spektrum/playlist.m3u8
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.cz@SD" tvg-name="Spektrum Home (Czech Republic)" tvg-logo="https://i.imgur.com/VaVi65F.png" group-title="CZ | Entertainment",Spektrum Home (Czech Republic)
-http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="CZ | Sports",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 tvg-id="TVBrno1.cz@SD" tvg-name="TV Brno 1 (1080p)" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="CZ | General",TV Brno 1 (1080p)
@@ -80,7 +80,7 @@ https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNoePlus.cz@SD" tvg-name="TV Noe+ (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="CZ | General",TV Noe+ (720p) [Geo-blocked]
 https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.cz@SD" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" group-title="CZ | Movies",Warner TV
-http://88.212.15.17/live/warner_tv/index.m3u8
+http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="1Plus1Marafon.ua@SD" tvg-name="1+1 Marafon (1080p)" tvg-logo="https://i.imgur.com/smQKa2G.png" group-title="UA | General",1+1 Marafon (1080p)
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="4everCinema.ua@SD" tvg-name="4ever Cinema (1080p)" tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="UA | Movies",4ever Cinema (1080p)
@@ -704,7 +704,7 @@ http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 tvg-id="O.ru@SD" tvg-name="O! (576p)" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="RU | Kids",O! (576p)
 http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 tvg-id="O.ru@International" tvg-name="O! International (720p)" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="RU | Kids",O! International (720p)
-http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-name="Okko Futbol (576p)" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="RU | Sports",Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-name="Okko Prajm Sport (1080p)" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="RU | Sports",Okko Prajm Sport (1080p)
@@ -1230,7 +1230,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 #EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-name="Movify Kino (576p)" tvg-logo="https://i.imgur.com/XIk5EJN.png" group-title="LV | Movies",Movify Kino (576p)
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="OTV.ee@SD" tvg-name="OTV (Estonia)" tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" group-title="LV | Entertainment",OTV (Estonia)
-http://88.212.15.17/live/otv/playlist.m3u8
+http://88.212.7.14/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pingviins.lv@SD" tvg-name="Pingviins (720p)" tvg-logo="https://i.imgur.com/hfXoJIY.png" group-title="LV | Kids",Pingviins (720p)
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" tvg-name="Radio SWH TV (1080p)" tvg-logo="https://i.imgur.com/cFrNsXn.png" group-title="LV | Music",Radio SWH TV (1080p)
@@ -1789,6 +1789,8 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior (United States) (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="US | Kids",Disney Junior (United States) (480p)
 http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD (United States) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="US | Kids",Disney XD (United States) (1080p)
+http://89.187.179.148:826/1368/gXwiagaXda/1672
 #EXTINF:-1 tvg-id="DiyaTV.us@SD" tvg-name="Diya TV (1080p)" tvg-logo="https://i.imgur.com/1fC7tqH.png" group-title="US | General",Diya TV (1080p)
 https://stream.diyatvinc.com/diya.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+ (1080p)" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="US | Documentary",Documentary+ (1080p)
@@ -2901,7 +2903,7 @@ http://92.114.85.87:8015/play/a00d/index.m3u8
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-name="Disney Channel (Poland) HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="PL | Kids",Disney Channel (Poland) HD (1080p)
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.pl@SD" tvg-name="Disney XD (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="PL | Kids",Disney XD (576p)
+#EXTINF:-1 tvg-id="DisneyXD.pl@SD" tvg-name="Disney XD (Poland) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="PL | Kids",Disney XD (Poland) (576p)
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl@HD" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="PL | General",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
@@ -3093,6 +3095,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-name="Disney Channel (Germany) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="DE | Kids",Disney Channel (Germany) (576p)
 https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@HD" tvg-name="Disney Channel (Germany) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="DE | Kids",Disney Channel (Germany) HD
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 #EXTINF:-1 tvg-id="DMF.de@SD" tvg-name="DMF (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="DE | Music",DMF (1080p) [Not 24/7]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat (1080p)" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="DE | Documentary",Dokusat (1080p)
@@ -3336,7 +3340,7 @@ https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" tvg-name="Zwei Music Television" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="DE | Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="24.sk@SD" tvg-name=":24 (1080p)" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="SK | News",:24 (1080p)
-http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" tvg-name="Antik Info TV (1080p)" tvg-logo="https://i.imgur.com/Q0qL60o.png" group-title="SK | News",Antik Info TV (1080p)
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Slovakia" tvg-name="Canal+ Action Europe Slovakia (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="SK | Movies",Canal+ Action Europe Slovakia (720p)
@@ -3360,7 +3364,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?of
 #EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-name="ducktv PLUS" tvg-logo="https://i.imgur.com/RFhxfOx.png" group-title="SK | Kids",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Jednotka.sk@SD" tvg-name="Jednotka" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="SK | General",Jednotka
-http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-name="MTR (1080p)" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="SK | General",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="SK | General",NZTV
@@ -3368,7 +3372,7 @@ https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-name="Regio TV (406p)" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="SK | General",Regio TV (406p)
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD" tvg-name="Sport (Slovakia) (1080p)" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="SK | Sports",Sport (Slovakia) (1080p)
-http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-name="Televizia Mocenok (720p)" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="SK | General",Televizia Mocenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrezova.sk@SD" tvg-name="TV Brezova (540p)" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="SK | General",TV Brezova (540p)
@@ -3418,7 +3422,7 @@ https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at@SD" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" group-title="AT | General",ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF2.at@SD" tvg-name="ORF 2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="AT | General",ORF 2 (720p)
-http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-name="ORF Kids (720p)" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="AT | Kids",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 #EXTINF:-1 tvg-id="P3tv.at@SD" tvg-name="P3tv (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="AT | General",P3tv (720p) [Not 24/7]
@@ -3431,12 +3435,14 @@ https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/
 https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-name="Rakuten TV Family Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="AT | Movies",Rakuten TV Family Movies Austria (720p)
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="ServusTV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="AT | Movies",ServusTV (1080p) [Geo-blocked]
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="ServusTV (576p)" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="AT | Movies",ServusTV (576p)
+https://s6.hopslan.com/servuz1/index.m3u8
 #EXTINF:-1 tvg-id="SteiermarkTV.at@SD" tvg-name="Steiermark TV (1080p)" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="AT | General",Steiermark TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-name="The Cycling Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="AT | Sports",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-name="6ter" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="FR | Entertainment",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-name="20 Minutes TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="FR | General",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-name="Africa 24 (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="FR | News",Africa 24 (1080p)
@@ -3533,6 +3539,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-name="Kozoom TV (1080p)" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="FR | Sports",Kozoom TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="FR | News",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-name="LCI HD (1080p)" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="FR | News",LCI HD (1080p)
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" tvg-name="Le Figaro TV Ile-de-France (1080p)" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="FR | General",Le Figaro TV Ile-de-France (1080p)
@@ -3593,8 +3601,6 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-name="RT France (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="FR | News",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-name="SciFi (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg" group-title="FR | Entertainment",SciFi (720p)
-http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-name="ScreamIN (1080p)" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="FR | Movies",ScreamIN (1080p)
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-name="Sony One Favoris (1080p)" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="FR | Movies",Sony One Favoris (1080p)
@@ -4013,7 +4019,7 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 tvg-id="BergamoTV.it@SD" tvg-name="Bergamo TV (1080p)" tvg-logo="https://i.imgur.com/Np3RaKv.png" group-title="IT | General",Bergamo TV (1080p)
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Boing.it@SD" tvg-name="Boing (Italy) (720p)" tvg-logo="https://i.imgur.com/rabKj9i.png" group-title="IT | Kids",Boing (Italy) (720p)
+#EXTINF:-1 tvg-id="Boing.it@HD" tvg-name="Boing (Italy) HD (1080p)" tvg-logo="https://i.imgur.com/rabKj9i.png" group-title="IT | Kids",Boing (Italy) HD (1080p)
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it@SD" tvg-name="Bom Channel (720p)" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" group-title="IT | General",Bom Channel (720p)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
@@ -4029,6 +4035,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaleDieci.it@SD" tvg-name="Canale Dieci (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/8Pay0Vv.png" group-title="IT | General",Canale Dieci (540p) [Not 24/7]
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it@HD" tvg-name="Cartoonito HD (720p)" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="IT | Kids",Cartoonito HD (720p)
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CGEntertainment.it@SD" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/XeWzy7e.png" group-title="IT | Entertainment",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine34.it@SD" tvg-name="Cine34 [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png" group-title="IT | Movies",Cine34 [Geo-blocked]
@@ -4602,7 +4610,7 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-name="Real Madrid TV (726p)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="ES | Sports",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="ES | Sports",Real Madrid TV English
-http://88.212.15.17/live/real_madrid_tv/index.m3u8
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-name="Red Bull TV ES (1080p)" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="ES | Sports",Red Bull TV ES (1080p)
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es@SD" tvg-name="Ribera TV (576p)" tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="ES | General",Ribera TV (576p)
@@ -4687,8 +4695,8 @@ https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-name="Cinemaraton Plus (1080i)" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="RO | Movies",Cinemaraton Plus (1080i)
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
-#EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-name="CineWow" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" group-title="RO | Movies",CineWow
-https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
+#EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-name="CineWow (576i)" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" group-title="RO | Movies",CineWow (576i)
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-name="Columna TV" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="RO | General",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-name="DeParinti.ro (576p)" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" group-title="RO | Kids",DeParinti.ro (576p)
@@ -4699,14 +4707,10 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2 HD (1080i)" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="RO | Sports",Digi Sport 2 HD (1080i)
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoMix.ro@SD" tvg-name="Disco Mix (576p)" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png" group-title="RO | Music",Disco Mix (576p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-name="Dotto TV (1080p)" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="RO | News",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
-#EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="RO | Music",EMI TV
-https://astra.emitv.ro/hls/emi/index.m3u8
-#EXTINF:-1 tvg-id="EMITV.ro@HD" tvg-name="EMI TV HD (1080i)" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="RO | Music",EMI TV HD (1080i)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV (576i)" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="RO | Music",EMI TV (576i)
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro@SD" tvg-name="Etno TV" tvg-logo="https://i.imgur.com/jzhZ8kl.png" group-title="RO | General",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-name="Euronews Romania (576p)" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="RO | News",Euronews Romania (576p)
@@ -4725,8 +4729,6 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay (576p) [Not 24/7]" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="RO | Sports",Formula 1 AntenaPlay (576p) [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
-#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" tvg-name="H!t Music Channel (Romania)" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="RO | Music",H!t Music Channel (Romania)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro@SD" tvg-name="Halloween Non Stop (720p)" tvg-logo="https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png" group-title="RO | Movies",Halloween Non Stop (720p)
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro@SD" tvg-name="Happy Channel" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="RO | Entertainment",Happy Channel
@@ -4775,8 +4777,6 @@ https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="RO | General",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel SD" tvg-logo="https://i.imgur.com/nadVCxM.png" group-title="RO | Music",Music Channel SD
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-name="Nasul TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="RO | General",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-name="National 24 Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124" group-title="RO | General",National 24 Plus
@@ -4791,8 +4791,8 @@ https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-name="Observator News (360p)" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="RO | News",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" group-title="RO | Music",Orizont TV (576p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576i)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" group-title="RO | Music",Orizont TV (576i)
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-name="Prima News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="RO | News",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521" group-title="RO | Movies",Pro Cinema (1080p)
@@ -4875,6 +4875,8 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="RO | General",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VoyoSport1.ro@HD" tvg-name="Voyo Sport 1 (1080i)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="RO | Sports",Voyo Sport 1 (1080i)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-name="Bravo! Kids TV" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="HR | Kids",Bravo! Kids TV
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-name="CMC TV (1080p)" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="HR | Music",CMC TV (1080p)
