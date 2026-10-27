@@ -397,6 +397,8 @@ http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-name="Carousel +4 (720p)" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="RU | Kids",Carousel +4 (720p)
 http://185.37.150.46/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-name="Cartoon Classics (Russia)" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="RU | Kids",Cartoon Classics (Russia)
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-name="Channel 5 (Russia) (576p)" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="RU | General",Channel 5 (Russia) (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-name="Channel 8 (Russia) (576p)" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="RU | Entertainment",Channel 8 (Russia) (576p)
@@ -2889,7 +2891,7 @@ https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-name="BTB Info (1080p)" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="PL | News",BTB Info (1080p)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-name="Cartoon Classics" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="PL | Kids",Cartoon Classics
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-name="Cartoon Classics (Poland)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="PL | Kids",Cartoon Classics (Poland)
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-name="Cartoon Network CEE Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="PL | Kids",Cartoon Network CEE Poland
 http://92.114.85.87:8007/play/a009
