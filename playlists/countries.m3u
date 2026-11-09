@@ -2629,8 +2629,8 @@ https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WCAU" tvg-name="Telemundo WCAU (1080p)" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="US | General",Telemundo WCAU (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-name="Telemundo West (2160p)" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="US | General",Telemundo West (2160p)
-http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-name="Telemundo West (720p)" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="US | General",Telemundo West (720p)
+http://45.5.117.57:8900/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WTMOCD" tvg-name="Telemundo WTMO-CD (720p)" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="US | General",Telemundo WTMO-CD (720p)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-name="Telemundo Al Dia (720p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="US | General",Telemundo Al Dia (720p)
@@ -2861,8 +2861,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD" tvg-name="Zoom News (720p)" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="US | News",Zoom News (720p)
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
-#EXTINF:-1 tvg-id="ZTV.us@SD" tvg-name="ZTV (1080p)" tvg-logo="https://zplay.cl/img/ztv.png" group-title="US | General",ZTV (1080p)
-http://45.70.201.81:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="5Plus.il@SD" tvg-name="5Plus (1080p)" tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="IL | Sports",5Plus (1080p)
 http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 tvg-id="5Stars.il@SD" tvg-name="5Stars (1080p)" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="IL | Sports",5Stars (1080p)
@@ -3389,6 +3387,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?of
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Jednotka.sk@SD" tvg-name="Jednotka" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="SK | General",Jednotka
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="MarkizaPlus1.sk@SD" tvg-name="Markiza +1" tvg-logo="https://web02.antik.sk/assets/img/channels/e910de4c6891e918d2c52d6149fc9589.svg" group-title="SK | General",Markiza +1
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-name="MTR (1080p)" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="SK | General",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="SK | General",NZTV
@@ -3489,7 +3489,7 @@ https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr@SD" tvg-name="C Star (477p)" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="FR | Entertainment",C Star (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-name="Canal+ Sport (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="FR | Sports",Canal+ Sport (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-name="Canal+ Sport (France) (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="FR | Sports",Canal+ Sport (France) (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-name="Cannes Lerins TV (1080p)" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="FR | General",Cannes Lerins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
@@ -3579,8 +3579,6 @@ https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-name="MCM Top (France)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="FR | Music",MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-name="Mezzo (576p)" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="FR | Music",Mezzo (576p)
-http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="MoselleTV.fr@SD" tvg-name="Moselle TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/hrm5QnU.png" group-title="FR | General",Moselle TV (720p) [Not 24/7]
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-name="Mr Bean Animated FR (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="FR | Kids",Mr Bean Animated FR (1080p)
@@ -3643,12 +3641,10 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 #EXTINF:-1 tvg-id="TeleGohelle.fr@SD" tvg-name="TeleGohelle" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" group-title="FR | General",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr@SD" tvg-name="TF1 (1080p)" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="FR | Entertainment",TF1 (1080p)
-http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-name="TF1 Series Films (1080p)" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="FR | Movies",TF1 Series Films (1080p)
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
-#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-name="TMC HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="FR | General",TMC HD (1080p)
-http://149.62.177.107:9999/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-name="TMC HD (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="FR | General",TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de@FR" tvg-name="Tortues Ninja TV (Germany) (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="FR | Kids",Tortues Ninja TV (Germany) (720p)
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="TraceAfrica.fr@SD" tvg-name="Trace Africa (1080p)" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="FR | Music",Trace Africa (1080p)
