@@ -1035,8 +1035,6 @@ http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge@SD" tvg-name="GDS TV" tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="GE | General",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="GMSTV.ge@SD" tvg-name="GMS TV (Georgia)" tvg-logo="" group-title="GE | General",GMS TV (Georgia)
-http://158.101.222.193:88/georgia_play.php?id=gms
 #EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-name="Imedi TV (1080p)" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="GE | General",Imedi TV (1080p)
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="GE | General",Mtavari Arkhi
@@ -1045,6 +1043,10 @@ https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-name="Palitra News (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="GE | News",Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-name="Setanta Sports 3 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="GE | Sports",Setanta Sports 3 (1080p)
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-name="Setanta Sports+ Georgia (1080p)" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="GE | Sports",Setanta Sports+ Georgia (1080p)
+http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="GE | General",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
 #EXTINF:-1 tvg-id="TVC.ge@SD" tvg-name="TVC (Georgia) (1080p)" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="GE | General",TVC (Georgia) (1080p)
@@ -1565,7 +1567,7 @@ https://bloomberg.com/media-manifest/streams/qt.m3u8
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us@SD" tvg-name="BMC-HD TV (720p)" tvg-logo="https://i.imgur.com/c9LiTz0.png" group-title="US | General",BMC-HD TV (720p)
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="US | Kids",Boomerang (720p)
+#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="US | Kids",Boomerang (United States) (720p)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BotflixRadioo.us@HD" tvg-name="Botflix Radioo (1080p)" tvg-logo="https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp" group-title="US | Music",Botflix Radioo (1080p)
 https://hls.botflix.tv/radioo/index.m3u8
@@ -2667,8 +2669,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 http://37.49.224.5/stream/4/index.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us@SD" tvg-name="TODAY All Day (1080p)" tvg-logo="https://i.imgur.com/LhbQ8Mr.png" group-title="US | News",TODAY All Day (1080p)
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name="Tom And Jerry (720p)" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="US | Kids",Tom And Jerry (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name="Tom And Jerry (720p) [Not 24/7]" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="US | Kids",Tom And Jerry (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TomSingsTV.us@HD" tvg-name="Tom Sings TV (1080p)" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920" group-title="US | Kids",Tom Sings TV (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-name="ToonGoggles (720p)" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="US | Kids",ToonGoggles (720p)
@@ -2681,8 +2683,8 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us@SD" tvg-name="Transformers TV (720p)" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="US | Kids",Transformers TV (720p)
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
-#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-name="Turismo HD (720p)" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="US | Entertainment",Turismo HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-name="Turismo HD (720p) [Not 24/7]" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="US | Entertainment",Turismo HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDaja.do@SD" tvg-name="TV Daja (1080p) [Not 24/7]" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="US | General",TV Daja (1080p) [Not 24/7]
 https://edge.essastream.com/dajatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHispanic.us@SD" tvg-name="TV Hispanic [Not 24/7]" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="US | General",TV Hispanic [Not 24/7]
@@ -3837,6 +3839,8 @@ https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-name="ENT Family (720p)" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="GB | Entertainment",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@UK" tvg-name="Eurosport 1 UK (1080p)" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="GB | Sports",Eurosport 1 UK (1080p)
+http://85.117.37.43/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-name="FBI Files" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="GB | Documentary",FBI Files
 https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-name="FIFA+ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="GB | Sports",FIFA+ (720p)
@@ -4425,8 +4429,6 @@ https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es@SD" tvg-name="Alcarria TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="ES | General",Alcarria TV (576p) [Not 24/7]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Antena3.es@National" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="ES | General",Antena 3
-https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
 #EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-name="Arabi TV (1080p)" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="ES | General",Arabi TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" tvg-name="Archivos Forenses" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="ES | Documentary",Archivos Forenses
@@ -4771,6 +4773,8 @@ https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" tvg-name="FILMBOX+ Love & Crime Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="RO | Movies",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay (576i) [Not 24/7]" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="RO | Sports",Formula 1 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro@HD" tvg-name="Happy Channel HD (1080i)" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="RO | Entertainment",Happy Channel HD (1080i)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="RO | General",HD365 TV
